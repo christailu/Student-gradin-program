@@ -1,12 +1,4 @@
-//---------------------------------------------------
-//Name: Christelle Mbemba
-//Course-Sectio: CS 155-section
-//Project: #5
-// Due date: 30/11/2022
-//Resources: notes from class
-//Description: 
-//				
-//-----------------------------------------------------
+
 
 #include <iostream>
 #include <iomanip>
